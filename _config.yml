@@ -105,7 +105,7 @@ author:
       url: "mailto:mark@aufflick.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://mark.aufflick.com"
+      # url: "https://mark.aufflick.com"
     - label: "Twitter"
       icon: "fab fa-twitter"
       url: "https://twitter.com/mark_sabbatical"
