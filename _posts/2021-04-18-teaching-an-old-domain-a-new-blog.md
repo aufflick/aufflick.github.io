@@ -3,8 +3,6 @@ title: "Teaching an old domain a new blog"
 excerpt_separator: <!--more-->
 ---
 
-# Teaching an old domain a new blog
-
 It's about 20 years, give or take, since I first launched a personal blog. If I recall correctly, I published my first post from a nondescript British Airways lounge in Heathrow airport, having just completed 20 hours of flying from Australia and waiting a few more hours for a flight to Denmark. The background image of the blog was inexplicably a picture of a Big Red chewing gum packet.
 
 <!--more-->

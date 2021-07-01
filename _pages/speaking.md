@@ -14,6 +14,16 @@ gallery:
 
 Please feel free to [reach out](mailto:mark@aufflick.com) :)
 
+* 360 iDev, Denver Colorado, August 22-25 2021
+  * [360idev.com](http://360idev.com) - in-person and virtual tickets available
+  * State containment grids, and don’t cross the streams.
+  * I'll be speaking [alongside](https://360idev.com/speakers/) legends of iOS
+    and at least one actual rock star ;)
+  * Come and see me talk about systematic ways to encapsulate state - we'll
+    cover a range of topics from Finite State Machines to the Actor model and
+    big Twinkies.
+
+
 # Past Speaking
 
 ## Speaking - Conferences
