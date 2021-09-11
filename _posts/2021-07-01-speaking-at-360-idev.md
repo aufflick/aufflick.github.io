@@ -11,7 +11,7 @@ More info and tickets here: [360idev.com](https://360idev.com)
 
 360 iDev has been a long time supporter of the iOS community, including CocoaHeads, and they've done a great job to pull together a huge collection of exciting speakers for this year's combined in-person and virtual conference.
 
-I'm particularly excited to get together (hopefully in person) with new and old friends - the speaker's list is amazing: (360idev.com/speakers/)[https://360idev.com/speakers/].
+I'm particularly excited to get together (hopefully in person) with new and old friends - the speaker's list is amazing: [360idev.com/speakers/](https://360idev.com/speakers/).
 
 See if you can spot the theme in my talk :)
 
