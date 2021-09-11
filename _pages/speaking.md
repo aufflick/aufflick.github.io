@@ -14,20 +14,19 @@ gallery:
 
 Please feel free to [reach out](mailto:mark@aufflick.com) :)
 
+# Past Speaking
+
+## Speaking - Conferences
+  
 * 360 iDev, Denver Colorado, August 22-25 2021
-  * [360idev.com](http://360idev.com) - in-person and virtual tickets available
   * State containment grids, and don’t cross the streams.
+    <br/>(or: Contrasting and combining approaches for rigorous state management: Actor Model; Functional Reactive Programming; Finite State Machines.)
+    <br/>[page][12]
   * I'll be speaking [alongside](https://360idev.com/speakers/) legends of iOS
     and at least one actual rock star ;)
   * Come and see me talk about systematic ways to encapsulate state - we'll
     cover a range of topics from Finite State Machines to the Actor model and
     big Twinkies.
-
-
-# Past Speaking
-
-## Speaking - Conferences
-  
 * YOW! Conferences, Melbourne, Brisbane, Sydney, 30 November - 5 December 2017
   * Bionic Implanted and Mobile Software in Six (years of) Easy (ish) Steps
     <br/>[video][1]
@@ -129,3 +128,4 @@ Please feel free to [reach out](mailto:mark@aufflick.com) :)
 [9]: https://www.slideshare.net/markaufflick/objects-data-and-more-openacs
 [10]: https://www.slideshare.net/markaufflick/mgatableview-5388090
 [11]: https://www.slideshare.net/markaufflick/adding-apple-remote-support-to-your-cocoa-app
+[12]: https://360idev.com/session/state-containment-grids-and-dont-cross-the-streams/
